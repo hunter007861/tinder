@@ -1,0 +1,38 @@
+.mainH{
+    color:dimgrey;
+    text-align:center;
+    padding:30px;
+    font-style:italic;
+}
+
+.enter_Name{
+    padding-left:20px;
+    padding-top:20px;
+    color:dimgrey;
+    
+}
+.nameInput{
+  display:flex;
+  align-items:center;
+  padding:10px;
+  margin-left:10px;
+  border-radius:5px;
+  background-color:#dedede;
+  width:40vw;
+
+}
+.IconN {
+    color:grey ;
+}
+.entryForm {
+    display: flex;
+    justify-content: center;
+}
+.inputButton {
+    border: none;
+    margin-top: 25px;
+    padding: 10px;
+    margin-left: 20vw;
+    color: #ffffff;
+    background-color: #FE3C72;
+}
